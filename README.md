@@ -14,7 +14,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 <ul>
 <li>You can use the following link to view the live website:
 
-#### <a href=""><b>https://</a></b>
+#### <a href="https://flora-store.netlify.app"><b>https://flora-store.netlify.app</a></b>
 
 </li>
 </ul>
