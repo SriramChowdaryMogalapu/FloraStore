@@ -1,0 +1,35 @@
+.footer{
+    background-color: green;
+    color: antiquewhite;
+}
+p{
+    font-size: large;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.copyright{
+    font-size: larger;
+    color: bisque;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.social-media ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    margin: 3px;
+}
+
+.social-icon {
+    font-size:40px;
+    width: 90px;
+    height: 45px;
+}
+  
