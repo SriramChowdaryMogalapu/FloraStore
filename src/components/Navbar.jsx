@@ -17,7 +17,7 @@ function Navbar() {
             />
             &nbsp;&nbsp;
             <div>
-              <h3 style={{ color: 'white' }}>Harmony Gardens</h3>
+              <h3 style={{ color: 'white' }}>Flora Store</h3>
               <i style={{ color: 'white' }}>Balancing Beauty and Wellness</i>
             </div>
           </div>
